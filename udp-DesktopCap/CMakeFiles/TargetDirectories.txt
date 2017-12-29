@@ -1,0 +1,4 @@
+/home/pi/udp-DesktopCap/CMakeFiles/rebuild_cache.dir
+/home/pi/udp-DesktopCap/CMakeFiles/edit_cache.dir
+/home/pi/udp-DesktopCap/CMakeFiles/client.dir
+/home/pi/udp-DesktopCap/CMakeFiles/server.dir

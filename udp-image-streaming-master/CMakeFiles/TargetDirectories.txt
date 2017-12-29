@@ -1,0 +1,4 @@
+/home/pi/udp-image-streaming-master/CMakeFiles/rebuild_cache.dir
+/home/pi/udp-image-streaming-master/CMakeFiles/edit_cache.dir
+/home/pi/udp-image-streaming-master/CMakeFiles/client.dir
+/home/pi/udp-image-streaming-master/CMakeFiles/server.dir
